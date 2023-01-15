@@ -25,6 +25,10 @@ body {
 .grid-3-columns-with-first-narrow {
   grid-template-columns: 1fr 2fr 2fr;
 }
+.embed {
+  width: 130%;
+  aspect-ratio: 1 /1;
+}
 .card {
   background-color: #ffffff;
   margin: 30px 0;
